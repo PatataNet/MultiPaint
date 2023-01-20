@@ -1,0 +1,29 @@
+{
+    "name": "MultiPaint",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.3.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.11.36",
+        "tag": "v1.11.36",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/d381e079d482074e6ee201c0c6c1eb4694d89b7f",
+        "target": "1.11.37",
+        "pxt": "8.4.29",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
